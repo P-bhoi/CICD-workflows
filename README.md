@@ -1,0 +1,1 @@
+This project demonstrates an end-to-end Machine Learning workflow using the Iris Dataset. The pipeline performs data preprocessing, feature engineering, model training, evaluation, visualization, and artifact generation. It is designed to be integrated with a CI/CD workflow using GitHub Actions for automated testing and deployment.
